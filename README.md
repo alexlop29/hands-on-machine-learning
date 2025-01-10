@@ -8,3 +8,7 @@ pipenv shell
 pipenv install notebook
 jupyter notebook
 ```
+
+```
+pipenv run jupyter notebook
+```
