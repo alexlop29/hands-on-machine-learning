@@ -8,6 +8,7 @@ notebook = "*"
 scikit-learn = "*"
 pandas = "*"
 matplotlib = "*"
+graphviz = "*"
 
 [dev-packages]
 
